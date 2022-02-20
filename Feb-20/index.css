@@ -1,0 +1,153 @@
+    * {
+        font-weight: 800;
+        text-align: center;
+        box-sizing: border-box;
+        margin: auto;
+        border: 0.5px solid rgb(139, 136, 136);
+    }
+    
+    .div1 {
+        width: 40%;
+        padding: 1px 6px 10px;
+        background-color: lightblue;
+    }
+    
+    .float {
+        margin: 8px 10px 5px;
+        background-color: rgb(150, 243, 150);
+        padding: 10px;
+    }
+    
+    .html {
+        background-color: yellow;
+        padding: 2px;
+        margin: 0px 80px 6px;
+    }
+    
+    .head {
+        background-color: yellow;
+        margin: 1px 50px 0px;
+    }
+    
+    .outerbody {
+        margin: 3px 10px 6px;
+        background-color: rgb(197, 161, 197);
+        padding: 3px 6px 6px;
+        width: 95%;
+    }
+    
+    .body {
+        background-color: yellow;
+        margin: 2px 130px 6px;
+    }
+    
+    .outer-wrapper {
+        background-color: lightgreen;
+        margin: 5px 10px;
+        width: 95%;
+        padding: 8px 10px;
+    }
+    
+    .wrapper {
+        background-color: yellow;
+        margin: 0px 70px 3px;
+    }
+    
+    .outerC1 {
+        padding: 1px 5px 3px;
+        width: 90%;
+        margin: 0px 20px 3px;
+        background-color: rgb(253, 229, 253);
+    }
+    
+    .c1 {
+        background-color: yellow;
+        margin: 1px 47px 3px;
+    }
+    
+    .outerheader {
+        background-color: orange;
+        margin: 8px;
+        padding: 0px 5px;
+    }
+    
+    .header {
+        background-color: yellow;
+        margin: 10px 35px;
+    }
+    
+    .outernavi {
+        background-color: violet;
+        padding: 4px 25px 2px;
+        margin: 5px 10px;
+    }
+    
+    .navi {
+        background-color: yellow;
+        margin: 0px 10px 3px;
+    }
+    
+    .outerC2 {
+        background-color: lightblue;
+        padding: 1px 5px 5px;
+        margin: 4px 20px;
+        width: 90%;
+    }
+    
+    .c2 {
+        background-color: yellow;
+        margin: 1px 10px;
+        padding: 5px 35px;
+        width: 95%;
+    }
+    
+    .content {
+        background-color: lightgrey;
+        margin: 5px 0px 6px 0px;
+        /* margin: 0px; */
+        float: left;
+        padding: 1px 2px;
+    }
+    
+    .float-right {
+        background-color: lightgrey;
+        margin: 5px 0px 6px 10px;
+        float: right;
+        padding: 1px 0px;
+    }
+    
+    .outerfooter {
+        background-color: rgb(226, 235, 226);
+        padding: 5px 25px;
+        margin: 4px 14px;
+    }
+    
+    .footer {
+        background-color: yellow;
+        margin: 2px 30px;
+    }
+    
+    .closec1 {
+        background-color: yellow;
+        margin: 0px 70px;
+        padding: 0px 5px;
+    }
+    
+    .closewrapper1 {
+        background-color: yellow;
+        margin: 3px 95px 6px;
+    }
+    
+    .closebody {
+        background-color: yellow;
+        margin: 0px 30px 0px 0px;
+        padding: 1px 15px;
+        flex: left;
+    }
+    
+    .closehtml {
+        background-color: yellow;
+        margin: 0px 140px;
+        flex: right;
+        padding: 0px;
+    }
